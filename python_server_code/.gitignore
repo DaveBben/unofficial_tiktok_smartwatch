@@ -1,0 +1,7 @@
+.venv
+videos
+.devcontainer
+.docker
+.vscode
+videos/
+*.wav
