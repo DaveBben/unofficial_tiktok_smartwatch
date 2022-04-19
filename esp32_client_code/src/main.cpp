@@ -43,9 +43,8 @@ bool dmaBufferSel = 0;
 #endif
 
 const char *ssid = "";                       // Enter SSID
-const char *password = "^";                    // Enter Password
+const char *password = "";                    // Enter Password
 const char *websockets_server_host = "192.168.86.38"; // Enter server adress
-const uint16_t websockets_server_port = 8000;         // Enter server port
 
 WebSocketsClient websocketClient;
 
