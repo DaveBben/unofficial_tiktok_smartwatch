@@ -2,7 +2,7 @@
 
 ![ESP32 TikTok Watch](esp32_tiktok_watch.png)
 
-A proof of concept project for building a smartwatch that plays TikTok videos. Using an official API for Python, we can download TikTok videos then use OpenCV and PyDub to stream the data to the ESP32. On the ESP32 we play that data through an ST7789VW display and max98537a DAC.
+A proof of concept project for building a smartwatch that plays TikTok videos. Using an unofficial API for Python, we can download TikTok videos then use OpenCV and PyDub to stream the data to the ESP32. On the ESP32 we play that data through an ST7789VW display and max98537a DAC.
 
 You can check out the full youtube video here:
 
@@ -17,5 +17,5 @@ This is a proof of concept project with a timebox (so I have time to make the Yo
 
 ## PCB
 
-![ESP32 TikTok Watch PCB](3d_view_tiktok_watch.png.png)
+![ESP32 TikTok Watch PCB](3d_view_tiktok_watch.png)
 
